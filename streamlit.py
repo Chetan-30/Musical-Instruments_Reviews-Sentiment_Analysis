@@ -14,7 +14,7 @@ import seaborn as sns
 import string
 from time import time
 import nltk
-stops = set(stopwords.words("english"))
+nltk.download('stopwords')
 import streamlit as st
 import urllib.request as tr
 import re
