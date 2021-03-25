@@ -15,6 +15,8 @@ import string
 from time import time
 import nltk
 nltk.download('stopwords')
+nltk.download('punkt')
+nltk.download('wordnet')
 import streamlit as st
 import urllib.request as tr
 import re
