@@ -1,0 +1,10 @@
+.stButton>button {
+    color: red;
+	position:absolute;
+    border-radius: 25%;
+	background-color:#85c5c7;
+	right : 280px;
+}
+.stsubheader> {
+	color : red;
+}
