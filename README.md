@@ -10,5 +10,4 @@ So the solution is to not accept these types of reviews . That's what my streaml
 
 I know even you are excited to test my model . So you can <a href="https://share.streamlit.io/chetan-30/musical-instruments_reviews-sentiment_analysis/streamlit.py" class="button big">Click Here </a> to open my app.
  
- Feel free to upvote and share your thoughts on <a href="https://www.kaggle.com/chetangadge/amazon-musical-instruments-review" class="button big">Kaggle</a>
-
+ Feel free to upvote and share your thoughts on <a href="https://www.kaggle.com/chetangadge/amazon-musical-instruments-review" class="button big">Kaggle</a>!
